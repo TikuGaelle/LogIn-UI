@@ -1,16 +1,11 @@
-# login_ui
+# Login_ui
 
-A new Flutter project.
+## Milestone
+Design  a splash screen, login screen and signup screen 
+ 
+Screenshots below:
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (72)](https://user-images.githubusercontent.com/60433438/149859129-ae207bd9-f226-4f9a-a80e-0c19c0567137.png)
+![Screenshot (73)](https://user-images.githubusercontent.com/60433438/149859139-63a2c73b-2009-41f3-8e3d-be278410c3e8.png)
+![Screenshot (71)](https://user-images.githubusercontent.com/60433438/149859153-c52a89e0-0342-4dfc-a305-f3d10b917b48.png)
